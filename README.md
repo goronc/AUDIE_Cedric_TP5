@@ -212,3 +212,5 @@ Puisque je travaille avec le cache desactiver cela va toujours me renvoyer une 2
 ** Gestion d'erreur ** 
 
 nous ajoutons le module grace a la commande : npm install --save htpp-errors
+
+tout les changements et les corrections ont été faite dans le code directement 
